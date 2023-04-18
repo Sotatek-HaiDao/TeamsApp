@@ -1,0 +1,41 @@
+.narrow[b-moft4dj0gl] {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.page-padding[b-moft4dj0gl] {
+    padding: 4rem;
+}
+
+.welcome.page > .narrow > img[b-moft4dj0gl] {
+    margin: 0 auto;
+    display: block;
+    width: 200px;
+}
+
+.welcome.page > .narrow > .menu[b-moft4dj0gl] {
+    width: 80%;
+    justify-content: space-between;
+    margin: 4rem auto;
+    border-bottom: none;
+}
+
+    .welcome.page > .narrow > .menu > .menu-item[b-moft4dj0gl] {
+        background-color: inherit;
+        margin: auto;
+        font-size: 14px;
+        min-height: 32px;
+        border-bottom-color: rgb(98, 100, 167);
+    }
+
+.center[b-moft4dj0gl] {
+    text-align: center;
+}
+
+.sections > *[b-moft4dj0gl] {
+    margin: 4rem auto;
+}
+
+.error[b-moft4dj0gl] {
+    color: red;
+}

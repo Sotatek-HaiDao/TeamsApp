@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SotatekTeamsAppDemo
+build_property.RootNamespace = SotatekTeamsAppDemo
+build_property.ProjectDir = D:\Project\SotatekTeamsAppDemo\SotatekTeamsAppDemo\SotatekTeamsAppDemo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Project\SotatekTeamsAppDemo\SotatekTeamsAppDemo\SotatekTeamsAppDemo
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Components/CurrentUser.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdXJyZW50VXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Components/Deploy.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXBsb3kucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Components/EditCode.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFZGl0Q29kZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Components/Graph.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHcmFwaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Components/Loading.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMb2FkaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Components/Publish.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdWJsaXNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Pages/Privacy.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Pages/TabConfig.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFiQ29uZmlnLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Pages/TermsOfUse.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVybXNPZlVzZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Components/ProfileCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9maWxlQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-kbujcv9pjb
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Components/Welcome.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXZWxjb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-moft4dj0gl
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Pages/Tab.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFiLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-jkgkqo0vrl
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/SotatekTeamsAppDemo/SotatekTeamsAppDemo/SotatekTeamsAppDemo/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
